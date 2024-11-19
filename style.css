@@ -3,3 +3,10 @@ body{
     margin: 0;
     font-style: 15px;
 }
+
+
+.wrapper{
+    font-family: serif;
+    font-style: 20px;
+    background-color: #333;
+}
